@@ -2,7 +2,7 @@ import Librarys.BasicFunctions as Bf, Librarys.AsciiEngine as Ae
 Bf.cls()
 
 #Info screen:
-print(f"{Bf.ansi.italics}{Bf.ansi.blue}Game Test{Bf.ansi.standard}{Bf.ansi.white}(Version 0.1.1[2/3/2022])\n"
+print(f"{Bf.ansi.italics}{Bf.ansi.blue}Grid Test{Bf.ansi.standard}{Bf.ansi.white}(Version 0.1.1[2/3/2022])\n"
 f"Created by, {Bf.ansi.green}Nomster Dude, and Mr. Spaceboy{Bf.ansi.white}\n"
 "Supports: Windows, MacOS, Linux\n")
 Bf.pause()
