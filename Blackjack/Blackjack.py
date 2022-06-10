@@ -1,4 +1,4 @@
-import Librarys.BasicFunctions as bf, Librarys.BlackjackProcess as bp, os, sys, datetime, time
+import Modules.BasicFunctions as bf, Modules.BlackjackProcess as bp, os, sys, datetime, time
 bf.cls()
 
 #Info screen:
