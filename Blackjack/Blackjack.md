@@ -1,3 +1,6 @@
+# Blackjack
+The card game Blackjack formatted to run in the python console
+
 # How to start
 
 Run Blackjack.py
