@@ -1,5 +1,5 @@
 try:
-    import Librarys.BasicFunctions as bf
+    import Modules.BasicFunctions as bf
 except ModuleNotFoundError as error:
     import BasicFunctions as bf
 
