@@ -13,7 +13,7 @@ You must press the key for one of the options. After doing so you will be given 
 
 ## Save Data
 
-Player data can only be saved manually. After creating a new save a folder named "Save Data" will automatically be generated (if it does not exist already). Player data will be stored in this folder in the form of JSON files (Ex. "Player Name.json"). **Attempting to edit any save file can result in failure to run or loss of data.**
+Player data can be saved manually from the game. After creating a new save a folder named "Save Data" will automatically be generated (if it does not exist already). Player data will be stored in this folder in the form of JSON files (Ex. "Player Name.json"). **Attempting to edit any save file can result in failure to run or loss of data.**
 
 ## Error Data
 
@@ -42,6 +42,11 @@ Error data will include the number of errors, error types, and error reasons.
 ## Beta Features
 
 In some versions of this program you can access beta feature's by pressing [T] on the main menu.
+
+# Contact
+Nomster Dude - [@NomsterDude](https://twitter.com/NomsterDude)
+
+Project Link: [https://github.com/NomsterDude/Nomsters-Python-Games](https://github.com/NomsterDude/Nomsters-Python-Games)
 
 #
 
