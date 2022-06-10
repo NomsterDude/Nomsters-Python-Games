@@ -2,7 +2,7 @@ import Librarys.BasicFunctions as bf, Librarys.BlackjackProcess as bp, os, sys, 
 bf.cls()
 
 #Info screen:
-print(f"{bf.ansi.blue}Blackjack{bf.ansi.white}(Version 0.1.1[5/2/2022])\n"
+print(f"{bf.ansi.blue}Blackjack{bf.ansi.white}(Version 0.5.5[5/2/2022])\n"
 f"Created by: {bf.ansi.green}Nomster Dude{bf.ansi.white}\n"
 "Supports: Windows, MacOS, Linux\n"
 "Requires: Python 3.0+\n")
